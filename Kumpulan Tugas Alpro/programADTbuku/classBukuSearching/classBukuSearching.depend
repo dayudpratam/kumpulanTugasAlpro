@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1686058759 source:c:\users\acer\documents\yuda\programadtbuku\classbukusearching\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
